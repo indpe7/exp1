@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="red">#ffff0000</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_gray">#fff4f6f7</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="gray">#ff808080</color>
+    <color name="black">#ff000000</color>
+    <color name="purple">#ff6f00d2</color>
+    <color name="gray_light">#ffebebeb</color>
+    <color name="gray_lighta">#B6B6B6</color>
+    <color name="gray_lighter">#E0E0E0</color>
+    <color name="gray_lightest">#fff4f6f7</color>
+    <color name="gray_deep">#ff535353</color>
+    <color name="blue_gray">#ff6d849f</color>
+    <color name="blue_deep">#ff33b5e5</color>
+    <color name="blue_dark">#ff33b5e5</color>
+    <color name="red_dark">#ffb03140</color>
+    <color name="red_lighter">#fff56474</color>
+    <color name="red_lightest">#fff27474</color>
+    <color name="blue">#ff3399cc</color>
+    <color name="blue_light">#ff4bb4e8</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_1">#10000000</color>
+    <color name="translucent_2">#20000000</color>
+    <color name="translucent">#70000000</color>
+    <color name="toast_bg">#90000000</color>
+</resources>
